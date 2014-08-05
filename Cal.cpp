@@ -1,7 +1,7 @@
 #include<iostream.h>
 void main()
 {
-cout<<"Welcome in Github";
+cout<<"Square Method;
 }
 
 double square(double innum)
